@@ -1,0 +1,23 @@
+Start: Mon, 26 Jan 2015 14:15:00 -0800
+End: Mon, 26 Jan 2015 15:12:23 -0800
+Tasks: Cloned git repository and completed variables.js.
+
+Start: Tues, 27 Jan 2015 09:55:00 -0800
+End: Tues, 27 Jan 2015 13:24:44 -0800
+Tasks: Worked on and off on functions.js (probably about 2 hours of work). Completed useless function and mostly completed the bar doubling function. Still needs a little debugging and fine tuning.
+
+Start: Tues, 27 Jan 2015 15:35:00 -0800
+End: Tues, 27 Jan 2015 16:24:44 -0800
+Tasks: Completed the bar doubling function, did some tiding up of the code in variables.js, and researched string parsing and Date objects for parseGit function.
+
+Start: Wed, 28 Jan 2015 09:20:00 -0800
+End: Wed, 28 Jan 2015 13:13:31 -0800
+Tasks: Completed parseGit function including troubleshooting. Originally parsed the time into multiple strings and numbers to be used in format: var = new Date(year, month, day, hour, minute, second). When that did not produce the necessary result for the test I instead joined the parsed time strings into a single string to be passed as the argument in format: var = new Date('date string').
+
+Start: Wed, 28 Jan 2015 17:30:00 -0800
+End: Wed, 28 Jan 2015 17:43:35 -0800
+Tasks: Recommitted all files to a new git directory with correct name.
+
+Start: Thurs, 29 Jan 2015 11:35:00 -0800
+End: Thurs, 29 Jan 2015 12:15:38 -0800
+Completed all portions of messageLog (constructor function, methods, and creating test instance) in objects.js.
